@@ -1,0 +1,207 @@
+machine_id,machine_age_years,temperature_reading,vibration_level,run_hours_last_week,operator_shift,maintenance_type,last_service_days_ago,repair_cost,failure_next_week
+MCH000,5,80.1,5.81,63,Morning,Corrective,40,0.0,No
+MCH001,1,68.3,8.5,50,Night,No Service,194,0.0,No
+MCH002,11,62.3,1.14,68,evening,Corrective,186,0.0,No
+MCH003,15,65.1,8.8,87,Evening,No Service,4,0.0,No
+MCH004,1,36.4,4.99,78,Morning,No Service,148,0.0,No
+MCH005,15,62.7,,68,Morning ,Preventive,127,0.0,No
+MCH006,3,56.0,3.61,80,Evening,Preventive,46,0.0,No
+MCH007,5,76.0,0.66,35,Evening ,No Service,162,0.0,No
+MCH008,12,76.9,9.1,47,Morning,Corrective,23,0.0,No
+MCH009,1,71.9,9.45,45,Night,No Service,50,0.0,No
+MCH010,6,69.7,3.53,81,Evening,Corrective,189,0.0,No
+MCH011,2,47.0,8.97,46,Morning,Preventive,148,649.8,Yes
+MCH012,4,72.1,1.68,94,EVENING,No Service,23,0.0,No
+MCH013,15,72.6,1.55,26,Morning,No Service,29,0.0,No
+MCH014,4,79.9,0.79,25,Morning ,Corrective,52,0.0,No
+MCH015,0,90.4,3.78,74,MORNING,Corrective,15,0.0,No
+MCH016,4,44.7,0.59,78,Morning,Preventive,37,816.32,Yes
+MCH017,1,60.3,3.81,71,Evening,No Service,114,0.0,No
+MCH018,12,56.1,1.4,37,Night,Corrective,2,0.0,No
+MCH019,19,67.1,6.97,10,MORNING,No Service,58,0.0,No
+MCH020,3,65.2,7.93,38,MORNING,Preventive,63,0.0,No
+MCH021,14,62.2,6.57,51,Morning,No Service,194,0.0,No
+MCH022,7,77.3,1.98,47,Morning,No Service,194,0.0,No
+MCH023,1,51.8,7.31,92,Morning,No Service,169,1291.26,Yes
+MCH024,13,52.5,2.45,87,Morning,Corrective,69,1990.1,Yes
+MCH025,4,52.7,7.24,79,night,No Service,105,0.0,No
+MCH026,10,60.7,5.43,11,Evening,Corrective,101,0.0,No
+MCH027,10,50.3,3.55,21,Evening,No Service,172,0.0,No
+MCH028,11,64.4,0.88,49,Night,No Service,149,0.0,No
+MCH029,2,63.0,,65,Morning,No Service,181,982.43,Yes
+MCH030,5,55.6,8.93,71,morning,No Service,110,0.0,No
+MCH031,14,75.5,6.36,36,Evening,Preventive,183,0.0,No
+MCH032,18,64.3,9.17,19,Evening,No Service,148,0.0,No
+MCH033,0,77.8,-999.0,39,morning,No Service,148,0.0,No
+MCH034,8,62.7,1.93,81,Evening,Corrective,132,0.0,No
+MCH035,17,64.7,6.97,98,morning,Corrective,67,0.0,No
+MCH036,5,58.2,3.38,94,MORNING,No Service,122,0.0,No
+MCH037,8,64.9,4.68,63,evening,Corrective,71,0.0,No
+MCH038,18,73.5,1.58,18,Night,Corrective,130,677.29,Yes
+MCH039,19,60.1,9.26,97,NIGHT,No Service,51,0.0,No
+MCH040,13,71.2,6.93,23,Night,No Service,160,0.0,No
+MCH041,13,55.2,2.61,34,Evening,Preventive,114,0.0,No
+MCH042,12,74.1,3.59,97,Morning,No Service,142,0.0,No
+MCH043,5,58.0,4.07,55,MORNING,Preventive,45,0.0,No
+MCH044,17,75.2,7.13,27,evening,Preventive,158,0.0,No
+MCH045,0,65.7,8.8,55,Morning,No Service,160,0.0,No
+MCH046,1,83.3,3.12,17,MORNING,Preventive,29,0.0,No
+MCH047,12,51.2,-999.0,38,Morning ,Preventive,70,0.0,No
+MCH048,16,47.3,5.68,95,Morning,Preventive,135,753.2,Yes
+MCH049,16,57.6,3.8,36,evening,Corrective,174,0.0,No
+MCH050,13,48.4,4.84,90,Evening ,Preventive,147,0.0,No
+MCH051,7,48.4,1.09,58,Morning,Preventive,94,0.0,No
+MCH052,7,72.5,1.68,69,Evening,Corrective,60,0.0,No
+MCH053,8,64.9,3.87,73,night,Preventive,182,0.0,No
+MCH054,5,59.2,,59,Evening,Preventive,175,0.0,No
+MCH055,8,60.4,3.38,13,Morning,No Service,179,0.0,No
+MCH056,2,57.8,2.45,92,Morning,Corrective,61,0.0,No
+MCH057,6,84.8,7.08,52,EVENING,Preventive,87,0.0,No
+MCH058,18,56.2,9.02,68,Morning,Preventive,49,0.0,No
+MCH059,14,49.1,4.42,59,Night,No Service,190,0.0,No
+MCH060,2,74.6,0.18,69,night,Preventive,173,0.0,No
+MCH061,5,62.4,-999.0,41,Evening,Preventive,35,0.0,No
+MCH062,5,89.5,4.0,85,Night ,Corrective,50,0.0,No
+MCH063,5,58.7,6.43,30,NIGHT,No Service,110,0.0,No
+MCH064,13,75.2,2.71,68,Morning,Corrective,83,0.0,No
+MCH065,17,78.0,0.12,62,Evening,No Service,92,0.0,No
+MCH066,14,58.7,-999.0,55,Evening ,Corrective,74,0.0,No
+MCH067,9,56.1,6.73,11,Evening,Preventive,135,0.0,No
+MCH068,3,73.9,3.8,45,EVENING,No Service,179,1064.38,Yes
+MCH069,2,71.9,2.16,14,Evening,No Service,183,0.0,No
+MCH070,16,48.1,4.46,55,Night,No Service,91,0.0,No
+MCH071,13,51.5,7.17,71,MORNING,Preventive,165,1474.07,Yes
+MCH072,10,34.6,1.22,57,Evening,Corrective,139,0.0,No
+MCH073,11,72.1,6.6,78,Morning,Corrective,40,0.0,No
+MCH074,16,61.9,6.37,42,night,Preventive,159,0.0,No
+MCH075,16,63.1,3.58,37,Morning,No Service,70,0.0,No
+MCH076,1,44.7,9.22,50,MORNING,Preventive,125,0.0,No
+MCH077,7,51.8,8.51,30,morning,Preventive,144,0.0,No
+MCH078,0,59.3,3.07,82,Evening,No Service,188,0.0,No
+MCH079,7,56.9,0.39,82,Evening,Corrective,189,0.0,No
+MCH080,12,66.4,3.0,47,Night,No Service,160,0.0,No
+MCH081,4,72.0,2.02,81,EVENING,Corrective,101,0.0,No
+MCH082,3,92.2,5.24,12,Morning ,No Service,80,0.0,No
+MCH083,9,64.8,8.74,23,Evening,Preventive,88,0.0,No
+MCH084,10,78.4,8.28,35,morning,No Service,190,0.0,No
+MCH085,14,55.0,2.97,44,Evening,Preventive,41,0.0,No
+MCH086,0,44.9,4.13,30,NIGHT,Preventive,105,0.0,No
+MCH087,4,60.8,0.44,56,Morning,Corrective,136,0.0,No
+MCH088,15,45.8,,81,Night,Corrective,5,0.0,No
+MCH089,13,65.2,0.7,51,Morning,Preventive,127,0.0,No
+MCH090,17,55.6,8.92,50,Night,No Service,52,0.0,No
+MCH091,16,41.5,8.25,15,Night,Preventive,56,0.0,No
+MCH092,16,85.8,2.11,35,Night,No Service,124,0.0,No
+MCH093,10,58.5,6.67,82,Night,Preventive,2,0.0,No
+MCH094,19,45.3,5.44,82,Night,Preventive,32,1239.91,Yes
+MCH095,8,75.8,7.63,19,morning,Preventive,91,0.0,No
+MCH096,18,56.3,4.57,11,Morning ,Corrective,117,0.0,No
+MCH097,7,78.1,1.9,84,Evening,Corrective,22,0.0,No
+MCH098,8,56.2,6.11,25,EVENING,Preventive,72,0.0,No
+MCH099,13,58.5,0.85,61,Evening,Corrective,62,0.0,No
+MCH100,7,69.1,5.6,84,Night,No Service,107,1195.25,Yes
+MCH101,2,72.1,2.1,80,Morning ,Preventive,60,0.0,No
+MCH102,17,74.2,6.54,59,Night,Preventive,1,1406.11,Yes
+MCH103,9,63.9,7.88,43,evening,Corrective,106,0.0,No
+MCH104,18,71.3,1.13,79,Morning,No Service,169,0.0,No
+MCH105,7,73.9,3.86,72,NIGHT,Preventive,117,0.0,No
+MCH106,19,67.4,7.0,85,Morning,Preventive,73,0.0,No
+MCH107,12,63.3,1.64,56,Evening,Preventive,96,0.0,No
+MCH108,15,47.7,5.43,94,Night,Corrective,28,0.0,No
+MCH109,15,72.2,6.42,79,Night,Preventive,48,0.0,No
+MCH110,4,65.5,3.44,15,morning,Corrective,88,0.0,No
+MCH111,16,60.0,7.92,36,Morning,Corrective,118,0.0,No
+MCH112,18,80.3,4.9,81,morning,Preventive,97,0.0,No
+MCH113,13,47.9,5.99,20,Morning,No Service,192,0.0,No
+MCH114,18,84.7,1.42,73,Night,No Service,127,0.0,No
+MCH115,16,64.7,0.32,40,Night,No Service,5,0.0,No
+MCH116,13,68.8,0.58,28,Evening,No Service,105,0.0,No
+MCH117,9,60.3,8.6,58,Evening,Preventive,116,0.0,No
+MCH118,17,45.0,8.4,93,Morning,No Service,9,0.0,No
+MCH119,3,63.3,7.69,90,Morning ,Preventive,77,0.0,No
+MCH120,11,69.0,1.98,46,Morning,Preventive,174,1946.09,Yes
+MCH121,16,73.1,5.04,10,NIGHT,Corrective,72,0.0,No
+MCH122,18,62.6,7.58,89,Morning,No Service,91,0.0,No
+MCH123,5,38.7,6.44,90,morning,Corrective,45,0.0,No
+MCH124,1,46.5,1.19,64,Night,Corrective,16,0.0,No
+MCH125,6,89.6,,66,Evening,Corrective,64,0.0,No
+MCH126,17,51.9,1.61,57,Evening ,Corrective,154,0.0,No
+MCH127,10,82.1,1.71,11,Morning,Corrective,196,0.0,No
+MCH128,1,53.8,8.57,24,Morning,Corrective,132,0.0,No
+MCH129,2,62.8,4.66,22,Evening ,Corrective,166,0.0,No
+MCH130,6,72.5,3.61,92,EVENING,Corrective,130,0.0,No
+MCH131,6,55.2,5.3,14,evening,Preventive,132,0.0,No
+MCH132,2,84.1,-999.0,60,morning,Preventive,85,0.0,No
+MCH133,9,65.9,1.22,42,Morning,Preventive,13,0.0,No
+MCH134,9,70.5,7.22,10,Morning ,Corrective,82,0.0,No
+MCH135,3,61.8,-999.0,92,Evening ,Preventive,173,366.94,Yes
+MCH136,4,72.9,1.2,11,morning,Preventive,107,0.0,No
+MCH137,13,83.9,4.07,87,Morning ,No Service,152,383.81,Yes
+MCH138,19,63.4,5.26,79,Evening,Preventive,11,0.0,No
+MCH139,19,85.8,2.04,81,Evening ,No Service,41,0.0,No
+MCH140,11,57.7,3.91,24,morning,Preventive,60,0.0,No
+MCH141,0,74.2,-999.0,89,NIGHT,No Service,72,0.0,No
+MCH142,17,70.9,5.52,63,Evening,Preventive,197,0.0,No
+MCH143,19,52.2,6.9,46,Evening,Corrective,92,0.0,No
+MCH144,5,67.6,7.96,71,evening,No Service,132,1015.97,Yes
+MCH145,8,65.1,,40,morning,Preventive,129,0.0,No
+MCH146,0,54.8,4.08,35,Evening,Corrective,84,0.0,No
+MCH147,16,69.3,4.77,35,Evening,No Service,193,0.0,No
+MCH148,15,66.8,5.42,61,morning,Preventive,45,0.0,No
+MCH149,0,64.1,1.12,64,EVENING,Preventive,7,0.0,No
+MCH150,14,64.2,3.04,31,MORNING,No Service,149,0.0,No
+MCH151,8,63.9,1.72,32,evening,Preventive,131,0.0,No
+MCH152,10,60.6,3.73,95,Morning,No Service,52,0.0,No
+MCH153,4,66.7,9.25,56,Morning,No Service,173,0.0,No
+MCH154,16,57.3,5.58,87,Evening,No Service,33,1235.81,Yes
+MCH155,8,96.9,4.14,39,Evening ,No Service,50,0.0,No
+MCH156,16,48.1,-999.0,35,Night,No Service,31,0.0,No
+MCH157,2,58.0,6.39,35,Evening ,Corrective,38,0.0,No
+MCH158,11,58.9,4.19,57,Morning,No Service,146,0.0,No
+MCH159,6,89.5,4.31,80,Evening,Corrective,140,0.0,No
+MCH160,19,49.2,6.69,55,Night,Corrective,128,0.0,No
+MCH161,11,70.1,0.67,36,Morning,Preventive,172,0.0,No
+MCH162,14,68.0,5.18,96,night,No Service,14,0.0,No
+MCH163,1,69.0,5.24,61,Evening,Corrective,124,0.0,No
+MCH164,13,79.8,7.21,45,Morning,No Service,23,0.0,No
+MCH165,2,79.6,9.34,10,NIGHT,Corrective,191,622.54,Yes
+MCH166,7,59.6,7.58,60,Morning,Preventive,127,0.0,No
+MCH167,4,67.3,4.84,65,Evening ,Corrective,152,366.93,Yes
+MCH168,0,42.6,1.69,93,Morning,No Service,114,0.0,No
+MCH169,11,66.2,5.63,30,Evening,Corrective,77,0.0,No
+MCH170,4,55.5,7.94,24,Morning,No Service,137,0.0,No
+MCH171,10,62.8,8.86,99,Morning,Preventive,167,0.0,No
+MCH172,15,44.8,7.86,59,Evening,No Service,36,0.0,No
+MCH173,3,69.9,1.88,12,Night ,No Service,174,0.0,No
+MCH174,14,44.6,6.8,19,Morning,No Service,145,0.0,No
+MCH175,5,66.8,8.37,52,Evening,Preventive,18,0.0,No
+MCH176,6,50.3,6.5,65,Night,Corrective,187,0.0,No
+MCH177,11,54.8,6.55,31,Morning,Preventive,36,0.0,No
+MCH178,12,78.9,4.8,42,Evening,Corrective,120,0.0,No
+MCH179,13,72.1,6.09,76,Night,No Service,26,0.0,No
+MCH180,3,78.8,2.87,97,night,Corrective,40,0.0,No
+MCH181,11,83.7,0.93,54,Morning,No Service,128,62.41,Yes
+MCH182,5,55.7,7.88,47,Night ,No Service,136,1500.71,Yes
+MCH183,5,83.0,8.97,42,Night,No Service,137,0.0,No
+MCH184,18,47.4,8.15,22,Evening,No Service,69,0.0,No
+MCH185,2,74.0,3.24,14,evening,Corrective,164,0.0,No
+MCH186,8,59.1,0.98,85,Night ,No Service,10,0.0,No
+MCH187,8,53.8,2.73,13,NIGHT,Preventive,171,0.0,No
+MCH188,4,72.4,8.02,83,Night,No Service,61,689.24,Yes
+MCH189,15,76.3,6.26,32,Night,Corrective,124,700.56,Yes
+MCH190,9,76.0,9.19,72,Evening,No Service,181,0.0,No
+MCH191,14,67.6,3.32,95,Morning,Corrective,51,0.0,No
+MCH192,7,66.6,5.28,77,MORNING,Preventive,82,0.0,No
+MCH193,17,71.3,7.53,75,Night,No Service,165,1994.73,Yes
+MCH194,14,68.6,2.3,33,evening,No Service,173,0.0,No
+MCH195,6,71.5,9.16,63,Morning,Preventive,47,0.0,No
+MCH196,19,67.4,5.67,67,Morning,Preventive,102,0.0,No
+MCH197,17,75.1,0.17,48,Morning,Corrective,67,0.0,No
+MCH198,11,45.5,0.34,13,evening,Corrective,103,0.0,No
+MCH199,0,63.4,8.39,92,EVENING,Corrective,76,0.0,No
+MCH136,4,72.9,1.2,11,morning,Preventive,107,0.0,No
+MCH133,9,65.9,1.22,42,Morning,Preventive,13,0.0,No
+MCH130,6,72.5,3.61,92,EVENING,Corrective,130,0.0,No
+MCH142,17,70.9,5.52,63,Evening,Preventive,197,0.0,No
+MCH154,16,57.3,5.58,87,Evening,No Service,33,1235.81,Yes
+MCH164,13,79.8,7.21,45,Morning,No Service,23,0.0,No

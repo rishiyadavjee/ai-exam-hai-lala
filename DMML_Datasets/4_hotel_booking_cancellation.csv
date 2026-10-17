@@ -1,0 +1,207 @@
+booking_id,arrival_date,lead_time_days,room_type,room_price,guest_age,num_guests,special_requests,booking_channel,refund_amount,cancelled
+BKG0000,2026-01-09,130,standard,471.28,23,5,0,Travel Agent,0.0,No
+BKG0001,2026-10-04,79,Deluxe,483.22,32,5,0,Direct,0.0,No
+BKG0002,2026-07-25,154,Deluxe,323.48,57,1,1,Travel Agent,0.0,No
+BKG0003,2026-02-26,146,Standard,214.17,47,1,3,Direct,159.28,Yes
+BKG0004,2026-01-20,65,Suite ,423.29,44,3,1,Online Travel Agency,395.49,Yes
+BKG0005,2026-12-20,146,SUITE,134.17,18,1,3,Online Travel Agency,131.98,Yes
+BKG0006,2026-04-27,183,Villa,237.52,56,4,0,Travel Agent,179.35,Yes
+BKG0007,2026-04-30,163,Villa,204.23,38,5,1,Online Travel Agency,197.07,Yes
+BKG0008,2026-08-18,146,Suite,459.84,61,2,1,Direct,0.0,No
+BKG0009,2026-05-14,153,Deluxe ,463.1,24,2,2,Online Travel Agency,255.4,Yes
+BKG0010,2026-11-30,160,Deluxe ,339.41,34,5,0,Online Travel Agency,103.89,Yes
+BKG0011,2026-09-06,57,STANDARD,90.94,21,2,1,Online Travel Agency,0.0,No
+BKG0012,2026-05-11,144,Villa ,261.81,34,2,0,Direct,0.0,No
+BKG0013,2026-04-08,39,Standard,152.85,70,1,1,Direct,48.86,Yes
+BKG0014,2026-11-10,71,Villa,447.06,45,5,1,Online Travel Agency,0.0,No
+BKG0015,2026-08-04,-4,Suite,103.67,43,5,2,Direct,0.0,No
+BKG0016,2026-12-02,56,Standard,64.98,33,1,1,Online Travel Agency,0.0,No
+BKG0017,2026-05-06,168,Villa,364.04,33,5,3,Direct,0.0,No
+BKG0018,2026-01-08,84,Deluxe ,248.51,56,1,1,Travel Agent,102.47,Yes
+BKG0019,2026-11-25,41,Deluxe,425.65,74,1,2,Direct,0.0,No
+BKG0020,2026-03-29,19,Villa,74.33,60,2,1,Online Travel Agency,0.0,No
+BKG0021,2026-11-05,109,standard,408.5,60,3,3,Travel Agent,230.47,Yes
+BKG0022,2026-09-17,90,Suite,57.17,44,5,1,Online Travel Agency,0.0,No
+BKG0023,2026-03-26,102,deluxe,52.91,23,4,2,Direct,0.0,No
+BKG0024,2026-10-04,8,Deluxe,,59,1,2,Direct,0.0,No
+BKG0025,2026-01-30,53,SUITE,141.79,64,3,1,Online Travel Agency,0.0,No
+BKG0026,2026-05-24,0,STANDARD,313.11,47,5,0,Direct,0.0,No
+BKG0027,2026-05-11,60,Deluxe,51.88,23,4,1,Travel Agent,0.0,No
+BKG0028,2026-08-28,186,SUITE,56.28,58,2,0,Travel Agent,49.24,Yes
+BKG0029,2026-07-15,30,Deluxe,374.49,70,1,0,Travel Agent,0.0,No
+BKG0030,2026-08-12,137,Standard,136.68,30,3,1,Travel Agent,99.96,Yes
+BKG0031,2026-06-23,1,Deluxe,341.95,27,3,2,Online Travel Agency,315.13,Yes
+BKG0032,2026-09-28,112,SUITE,384.96,60,2,3,Direct,0.0,No
+BKG0033,2026-02-28,184,suite,67.29,36,1,1,Online Travel Agency,0.0,No
+BKG0034,2026-09-20,68,Suite,394.09,58,1,1,Direct,229.8,Yes
+BKG0035,2026-01-19,39,deluxe,163.47,58,3,1,Travel Agent,0.0,No
+BKG0036,2026-02-01,114,Suite,219.19,33,5,0,Online Travel Agency,0.0,No
+BKG0037,2026-09-22,55,Deluxe,79.85,20,3,0,Online Travel Agency,0.0,No
+BKG0038,2026-02-27,-1,Suite,425.77,49,3,3,Travel Agent,0.0,No
+BKG0039,2026-10-09,169,Suite,297.94,41,5,2,Online Travel Agency,0.0,No
+BKG0040,2026-02-18,130,Standard,272.15,66,4,1,Online Travel Agency,0.0,No
+BKG0041,2026-02-23,127,Suite,485.54,38,4,2,Direct,0.0,No
+BKG0042,2026-12-07,120,villa,193.87,32,3,1,Direct,163.83,Yes
+BKG0043,2026-03-06,147,Villa ,449.76,67,4,0,Direct,155.45,Yes
+BKG0044,2026-11-30,92,Suite ,371.06,59,3,0,Online Travel Agency,0.0,No
+BKG0045,2026-05-08,193,Standard,467.12,53,4,0,Travel Agent,433.3,Yes
+BKG0046,2026-10-19,69,Villa,457.59,72,4,0,Direct,383.39,Yes
+BKG0047,2026-12-09,1,Standard ,495.87,62,4,1,Online Travel Agency,0.0,No
+BKG0048,2026-02-12,139,DELUXE,100.57,67,5,1,Direct,0.0,No
+BKG0049,2026-05-01,132,Standard,406.17,63,2,0,Direct,239.92,Yes
+BKG0050,2026-07-29,196,Standard,410.07,40,4,0,Direct,0.0,No
+BKG0051,2026-11-12,79,Suite,336.41,21,1,2,Online Travel Agency,291.42,Yes
+BKG0052,2026-03-10,84,Deluxe,168.28,52,3,0,Online Travel Agency,0.0,No
+BKG0053,2026-03-10,112,Deluxe,483.97,61,5,2,Online Travel Agency,377.2,Yes
+BKG0054,2026-05-15,78,Deluxe,134.03,74,4,0,Online Travel Agency,0.0,No
+BKG0055,2026-03-16,156,Villa,269.8,56,2,0,Online Travel Agency,0.0,No
+BKG0056,2026-04-08,85,Villa,279.88,50,4,3,Direct,0.0,No
+BKG0057,2026-02-17,156,villa,114.44,50,2,2,Travel Agent,0.0,No
+BKG0058,2026-10-30,85,Suite,372.36,24,3,1,Online Travel Agency,0.0,No
+BKG0059,2026-10-18,45,DELUXE,80.88,18,2,1,Direct,0.0,No
+BKG0060,2026-02-22,198,Suite,358.82,20,4,2,Online Travel Agency,212.47,Yes
+BKG0061,2026-07-15,105,Suite,430.36,69,1,1,Online Travel Agency,0.0,No
+BKG0062,2026-08-24,141,Villa,,63,3,1,Travel Agent,193.37,Yes
+BKG0063,2026-08-18,118,Standard,366.33,32,5,1,Direct,0.0,No
+BKG0064,2026-12-26,71,DELUXE,112.12,42,4,1,Travel Agent,0.0,No
+BKG0065,2026-08-23,194,Villa,429.14,45,3,0,Online Travel Agency,0.0,No
+BKG0066,2026-09-08,74,Deluxe ,477.93,32,5,1,Direct,313.62,Yes
+BKG0067,2026-01-12,198,Deluxe,110.24,42,1,1,Online Travel Agency,87.24,Yes
+BKG0068,2026-01-29,86,Deluxe,358.26,37,5,2,Travel Agent,0.0,No
+BKG0069,2026-08-14,4,Standard,272.68,57,2,0,Direct,0.0,No
+BKG0070,2026-11-28,7,STANDARD,284.49,61,5,2,Travel Agent,0.0,No
+BKG0071,2026-05-26,194,Suite,364.99,23,5,2,Travel Agent,0.0,No
+BKG0072,2026-08-23,105,Standard ,,44,4,1,Travel Agent,0.0,No
+BKG0073,2026-03-18,77,Suite ,316.15,74,4,1,Direct,0.0,No
+BKG0074,2026-06-16,162,deluxe,146.21,67,4,1,Online Travel Agency,0.0,No
+BKG0075,2026-10-02,123,Suite,214.11,63,2,4,Online Travel Agency,120.13,Yes
+BKG0076,2026-08-29,132,Deluxe,438.01,59,1,1,Online Travel Agency,140.88,Yes
+BKG0077,2026-02-11,137,Suite ,,18,2,0,Travel Agent,85.17,Yes
+BKG0078,2026-11-17,39,Villa,314.88,73,3,1,Direct,0.0,No
+BKG0079,2026-12-05,17,Suite,124.77,59,4,1,Online Travel Agency,0.0,No
+BKG0080,2026-06-24,145,standard,,68,2,1,Travel Agent,0.0,No
+BKG0081,2026-05-05,4,Suite,306.36,69,3,0,Travel Agent,0.0,No
+BKG0082,2026-07-13,143,Deluxe,225.4,32,1,3,Online Travel Agency,77.68,Yes
+BKG0083,2026-10-20,25,Deluxe ,154.92,18,1,0,Travel Agent,0.0,No
+BKG0084,2026-06-15,52,Standard,240.95,55,5,1,Online Travel Agency,0.0,No
+BKG0085,2026-01-11,141,Suite,480.5,44,5,0,Online Travel Agency,0.0,No
+BKG0086,2026-01-27,124,Villa,274.24,19,5,3,Online Travel Agency,0.0,No
+BKG0087,2026-10-24,156,Suite,255.97,33,2,1,Direct,0.0,No
+BKG0088,2026-10-15,122,Villa ,383.29,74,3,2,Direct,0.0,No
+BKG0089,2026-10-09,9,standard,214.36,38,4,0,Travel Agent,0.0,No
+BKG0090,2026-02-16,167,Deluxe,236.62,32,2,5,Direct,106.47,Yes
+BKG0091,2026-03-04,43,Deluxe ,195.0,55,4,1,Online Travel Agency,0.0,No
+BKG0092,2026-05-25,27,Standard,109.42,55,4,0,Online Travel Agency,0.0,No
+BKG0093,2026-03-26,175,Suite,368.35,36,3,0,Online Travel Agency,0.0,No
+BKG0094,2026-05-22,38,SUITE,441.59,66,3,1,Online Travel Agency,0.0,No
+BKG0095,2026-07-23,107,Villa,456.57,51,2,3,Travel Agent,0.0,No
+BKG0096,2026-04-13,97,Villa,445.17,27,5,1,Travel Agent,0.0,No
+BKG0097,2026-02-15,153,VILLA,247.82,36,5,1,Travel Agent,0.0,No
+BKG0098,2026-05-27,8,Villa,170.67,66,5,0,Online Travel Agency,0.0,No
+BKG0099,2026-09-21,21,Standard,,23,4,0,Travel Agent,318.32,Yes
+BKG0100,2026-08-14,83,Villa,479.16,18,2,0,Online Travel Agency,192.5,Yes
+BKG0101,2026-04-28,94,SUITE,374.44,55,4,0,Online Travel Agency,0.0,No
+BKG0102,2026-04-24,157,suite,267.63,43,2,1,Travel Agent,0.0,No
+BKG0103,2026-08-02,121,Villa,356.85,32,5,0,Travel Agent,0.0,No
+BKG0104,2026-03-04,29,Suite ,395.37,44,2,1,Direct,0.0,No
+BKG0105,2026-11-01,195,villa,462.86,28,3,1,Travel Agent,304.65,Yes
+BKG0106,2026-11-14,91,Deluxe ,391.08,39,1,2,Travel Agent,0.0,No
+BKG0107,2026-01-10,192,Deluxe ,239.27,31,1,1,Travel Agent,100.9,Yes
+BKG0108,2026-12-21,197,villa,165.86,51,2,1,Travel Agent,0.0,No
+BKG0109,2026-01-09,10,Suite,269.95,56,3,1,Travel Agent,0.0,No
+BKG0110,2026-06-17,101,standard,190.96,70,1,0,Direct,0.0,No
+BKG0111,2026-09-01,84,Deluxe,,21,5,1,Direct,0.0,No
+BKG0112,2026-04-30,-3,Villa,273.66,36,1,0,Direct,0.0,No
+BKG0113,2026-03-16,61,Suite ,,33,5,1,Direct,0.0,No
+BKG0114,2026-01-18,111,Deluxe,200.17,51,2,3,Direct,0.0,No
+BKG0115,2026-09-23,98,Villa,,48,2,0,Online Travel Agency,327.79,Yes
+BKG0116,2026-01-14,37,Standard ,279.22,68,1,2,Direct,0.0,No
+BKG0117,2026-06-26,57,Deluxe,99.36,70,5,0,Direct,76.39,Yes
+BKG0118,2026-05-24,29,Suite,439.84,62,4,0,Online Travel Agency,0.0,No
+BKG0119,2026-12-20,168,Villa,205.15,29,1,0,Travel Agent,183.71,Yes
+BKG0120,2026-12-06,135,Suite,238.99,20,1,0,Direct,0.0,No
+BKG0121,2026-10-26,77,Standard ,134.61,69,4,0,Online Travel Agency,119.01,Yes
+BKG0122,2026-09-24,79,Deluxe ,294.56,71,5,1,Online Travel Agency,0.0,No
+BKG0123,2026-07-18,15,Suite ,362.95,32,1,2,Travel Agent,0.0,No
+BKG0124,2026-05-08,57,Suite,445.34,20,2,2,Direct,0.0,No
+BKG0125,2026-03-02,184,Suite,63.74,56,3,2,Travel Agent,0.0,No
+BKG0126,2026-12-20,6,deluxe,487.73,51,1,2,Direct,157.15,Yes
+BKG0127,2026-05-21,29,Suite,363.76,68,2,2,Direct,217.04,Yes
+BKG0128,2026-06-06,169,Deluxe,170.78,50,1,3,Direct,100.05,Yes
+BKG0129,2026-02-21,104,SUITE,134.06,61,3,1,Travel Agent,0.0,No
+BKG0130,2026-04-12,6,Suite,176.2,62,4,3,Direct,83.36,Yes
+BKG0131,2026-08-20,97,Deluxe,442.83,18,3,1,Travel Agent,313.92,Yes
+BKG0132,2026-06-05,149,Deluxe,174.04,26,2,0,Travel Agent,0.0,No
+BKG0133,2026-08-02,69,Suite,252.9,62,3,0,Travel Agent,0.0,No
+BKG0134,2026-03-19,76,Deluxe,364.64,28,3,1,Direct,0.0,No
+BKG0135,2026-01-30,126,deluxe,441.12,29,1,1,Direct,0.0,No
+BKG0136,2026-11-20,119,Villa,342.94,60,1,2,Direct,0.0,No
+BKG0137,2026-06-07,180,Suite,386.43,29,1,3,Travel Agent,258.82,Yes
+BKG0138,2026-05-12,49,standard,119.73,26,5,0,Direct,0.0,No
+BKG0139,2026-04-15,55,Suite ,443.61,18,4,0,Online Travel Agency,0.0,No
+BKG0140,2026-08-29,31,Deluxe,166.83,44,1,2,Online Travel Agency,0.0,No
+BKG0141,2026-07-25,132,Standard,99.05,54,2,1,Travel Agent,65.04,Yes
+BKG0142,2026-05-23,106,deluxe,489.07,59,3,3,Online Travel Agency,208.67,Yes
+BKG0143,2026-12-06,69,Deluxe ,,69,1,3,Online Travel Agency,82.85,Yes
+BKG0144,2026-11-26,139,Villa,102.86,55,5,2,Travel Agent,0.0,No
+BKG0145,2026-03-14,75,Villa,327.97,61,5,0,Travel Agent,0.0,No
+BKG0146,2026-08-23,39,STANDARD,186.68,30,2,1,Online Travel Agency,0.0,No
+BKG0147,2026-12-20,107,Deluxe,101.34,37,1,1,Online Travel Agency,0.0,No
+BKG0148,2026-06-28,87,standard,316.52,35,2,0,Online Travel Agency,0.0,No
+BKG0149,2026-01-12,81,Deluxe,389.13,21,3,1,Travel Agent,0.0,No
+BKG0150,2026-02-18,88,Villa ,404.87,73,5,0,Online Travel Agency,199.03,Yes
+BKG0151,2026-09-01,182,Suite,,31,2,1,Online Travel Agency,0.0,No
+BKG0152,2026-11-26,43,Standard,296.16,43,2,0,Travel Agent,200.78,Yes
+BKG0153,2026-02-16,55,villa,414.29,38,2,2,Travel Agent,0.0,No
+BKG0154,2026-07-19,113,Deluxe ,114.1,20,1,1,Online Travel Agency,0.0,No
+BKG0155,2026-07-01,9,Deluxe ,135.53,69,1,2,Direct,0.0,No
+BKG0156,2026-04-15,29,Villa,41.11,30,3,1,Direct,0.0,No
+BKG0157,2026-08-19,113,Standard,281.33,23,4,4,Online Travel Agency,0.0,No
+BKG0158,2026-11-17,101,SUITE,129.55,37,1,1,Travel Agent,0.0,No
+BKG0159,2026-03-29,130,deluxe,373.15,26,2,2,Travel Agent,0.0,No
+BKG0160,2026-01-20,22,Standard,482.62,74,5,0,Travel Agent,0.0,No
+BKG0161,2026-05-12,170,Suite ,136.03,28,5,0,Direct,0.0,No
+BKG0162,2026-04-25,97,Suite,338.58,35,4,0,Online Travel Agency,129.51,Yes
+BKG0163,2026-09-23,31,villa,137.44,33,3,0,Travel Agent,0.0,No
+BKG0164,2026-07-15,62,Villa,48.28,19,3,3,Travel Agent,0.0,No
+BKG0165,2026-01-07,45,Standard,388.93,18,2,1,Direct,0.0,No
+BKG0166,2026-05-05,90,Deluxe,239.64,47,2,4,Travel Agent,0.0,No
+BKG0167,2026-09-26,-1,Deluxe,475.52,31,2,2,Direct,0.0,No
+BKG0168,2026-06-24,86,Suite ,285.77,22,4,1,Direct,0.0,No
+BKG0169,2026-07-25,92,Deluxe,112.44,34,4,0,Travel Agent,0.0,No
+BKG0170,2026-04-07,181,Villa,246.9,33,4,1,Travel Agent,0.0,No
+BKG0171,2026-04-27,191,Deluxe,133.33,42,4,1,Travel Agent,77.02,Yes
+BKG0172,2026-02-17,97,Villa,443.89,74,1,1,Online Travel Agency,0.0,No
+BKG0173,2026-01-30,192,STANDARD,357.82,35,4,2,Online Travel Agency,217.64,Yes
+BKG0174,2026-01-14,163,Villa,196.97,58,5,0,Online Travel Agency,0.0,No
+BKG0175,2026-08-16,163,standard,282.8,61,4,3,Online Travel Agency,0.0,No
+BKG0176,2026-02-27,45,Villa ,347.96,20,3,1,Online Travel Agency,228.05,Yes
+BKG0177,2026-07-29,87,Standard,400.11,46,2,1,Direct,0.0,No
+BKG0178,2026-12-14,70,Suite ,76.87,43,4,0,Travel Agent,0.0,No
+BKG0179,2026-09-12,19,suite,50.36,46,3,2,Online Travel Agency,47.22,Yes
+BKG0180,2026-07-30,15,Villa,92.65,27,2,0,Online Travel Agency,0.0,No
+BKG0181,2026-02-12,124,SUITE,221.7,44,3,0,Travel Agent,0.0,No
+BKG0182,2026-06-28,84,Suite,254.69,25,1,0,Online Travel Agency,0.0,No
+BKG0183,2026-11-22,165,Standard ,102.77,71,5,0,Online Travel Agency,0.0,No
+BKG0184,2026-05-21,133,Villa,229.13,51,4,1,Direct,0.0,No
+BKG0185,2026-10-29,17,Deluxe,243.15,19,2,4,Direct,0.0,No
+BKG0186,2026-09-16,167,Suite,90.18,46,4,0,Online Travel Agency,81.14,Yes
+BKG0187,2026-04-08,99,Suite,461.66,70,1,0,Online Travel Agency,224.85,Yes
+BKG0188,2026-02-21,113,Suite,315.61,60,2,3,Travel Agent,0.0,No
+BKG0189,2026-01-07,193,Deluxe ,218.73,33,4,1,Travel Agent,0.0,No
+BKG0190,2026-04-11,128,Standard,273.18,68,1,1,Travel Agent,163.13,Yes
+BKG0191,2026-05-02,4,Standard,184.53,28,4,1,Online Travel Agency,172.78,Yes
+BKG0192,2026-08-28,35,Standard,432.99,32,5,0,Direct,0.0,No
+BKG0193,2026-07-28,85,Suite ,304.51,26,3,1,Travel Agent,0.0,No
+BKG0194,2026-06-24,7,Villa,267.65,70,2,0,Travel Agent,145.47,Yes
+BKG0195,2026-09-21,33,Deluxe,459.01,58,4,1,Online Travel Agency,319.38,Yes
+BKG0196,2026-10-09,158,Deluxe ,425.47,47,2,0,Travel Agent,232.31,Yes
+BKG0197,2026-09-18,28,Standard,,56,4,0,Travel Agent,0.0,No
+BKG0198,2026-11-24,-1,Villa ,143.78,32,4,0,Online Travel Agency,0.0,No
+BKG0199,2026-05-12,100,deluxe,110.44,22,1,0,Direct,0.0,No
+BKG0074,2026-06-16,162,deluxe,146.21,67,4,1,Online Travel Agency,0.0,No
+BKG0010,2026-11-30,160,Deluxe ,339.41,34,5,0,Online Travel Agency,103.89,Yes
+BKG0183,2026-11-22,165,Standard ,102.77,71,5,0,Online Travel Agency,0.0,No
+BKG0195,2026-09-21,33,Deluxe,459.01,58,4,1,Online Travel Agency,319.38,Yes
+BKG0087,2026-10-24,156,Suite,255.97,33,2,1,Direct,0.0,No
+BKG0142,2026-05-23,106,deluxe,489.07,59,3,3,Online Travel Agency,208.67,Yes
